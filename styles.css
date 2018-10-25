@@ -1,0 +1,19 @@
+/* Add your CSS here. This file should */
+/* automatically hot reload into the app on save */
+
+.logo{
+    height: 45px;
+}
+.list_item{
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 20px;
+    display: flex;
+   justify-content: space-around;
+}
+.content-header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
